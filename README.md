@@ -28,9 +28,10 @@ In order to determine which features had the greatest influence on predictions, 
 
 ![model2](https://github.com/DeepikaDhanaraj/Medical_Insurence_Price_Predict_using-ML/assets/133857686/b988b7bd-0c2c-4da1-961c-4e23baebae64)
 ## 6.Final Model:
-a. Trained the final XGBoost model with optimized hyperparameters.
-b. Dropped less important features to simplify the model.
+a. Train the final XGBoost model with optimized hyperparameters.
+
+b. Dropp less important features to simplify the model.
 ## 7.Prediction on data
-Demonstrated how to use the trained model to predict medical insurance charges for new data.
+Demonstrate how the trained model to predict medical insurance charges for new data.
 ## 8.Conclusion
 Out of all the models XGBoost model is giving the highest accuracy this means predictions made by this model are close to the real values as compared to the other model.so that it provides most effective for predicting medical insurance charges based on the given dataset.

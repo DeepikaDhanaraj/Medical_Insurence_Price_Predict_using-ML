@@ -27,10 +27,8 @@ c. Identified XGBoost as the best-performing model based on evaluation metrics.
 In order to determine which features had the greatest influence on predictions, the final XGBoost model's feature importances were examined.
 
 ![model2](https://github.com/DeepikaDhanaraj/Medical_Insurence_Price_Predict_using-ML/assets/133857686/b988b7bd-0c2c-4da1-961c-4e23baebae64)
-
 ## 6.Final Model:
 a. Trained the final XGBoost model with optimized hyperparameters.
-
 b. Dropped less important features to simplify the model.
 ## 7.Prediction on data
 Demonstrated how to use the trained model to predict medical insurance charges for new data.
